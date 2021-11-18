@@ -1,1 +1,1 @@
-from independent_ppo import IndependentPPO
+from .independent_ppo import IndependentPPO
